@@ -8,3 +8,13 @@ body.dark-mode {
   background-color: #333333;
   color: #f1f1f1;
 }
+
+body.blue-mode {
+  background-color: #0683d1;
+  color: #f1f1f1;
+}
+
+body.burgundy-mode {
+  background-color: #9b051edc;
+  color: #f1f1f1;
+}
